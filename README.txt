@@ -1,5 +1,5 @@
-Srinath Narayanan's personal site
-vnnsrk.github.io
+#vnnsrk.github.io
+##Srinath Narayanan's personal site
 
 Credits:
 
