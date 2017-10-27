@@ -4,6 +4,8 @@
 Credits:
 
 	Author:
+		Srinath
+		vnnsrk.github.io
 		AJ
 		aj@lkn.io | @ajlkn
 
