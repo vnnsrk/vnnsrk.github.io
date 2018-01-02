@@ -1,4 +1,4 @@
-# vnnsrk.github.io
+# www.srinath01n.com
 ## My personal site
 
 Credits:
